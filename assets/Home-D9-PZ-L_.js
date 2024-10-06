@@ -1,1 +1,0 @@
-import{j as e,L as t}from"./index-D9n1SGc5.js";const s=()=>e.jsxs("div",{className:"container text-center",children:[e.jsx("h1",{children:"Welcome to Team Roster Management"}),e.jsx(t,{to:"/roster",className:"btn btn-primary mt-3",children:"Manage Roster"})]});export{s as default};
