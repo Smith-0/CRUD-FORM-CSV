@@ -46,7 +46,7 @@ This project is a **React-based Roster Management System** where team admins can
    npm run dev
    ```
 
-5. Open your browser and navigate to `http://localhost:3000`.
+5. Open your browser and navigate to `http://localhost:5173/`.
 
 ## Usage
 
@@ -54,7 +54,7 @@ This project is a **React-based Roster Management System** where team admins can
 2. **Editing a Player**: Click the "Edit" button next to a player, modify their details in the form, and submit.
 3. **Deleting a Player**: Click the "Delete" button to remove the player from the roster.
 4. **CSV Upload**: Download the sample CSV, fill it out, and upload it to bulk add players. Make sure the format matches the template to avoid errors.
-5. **Alerts**: Success or error alerts will appear after uploading the CSV file, and disappear after 3 seconds, or you can manually close them.
+5. **Alerts**: Success or error alerts will appear after uploading the CSV file, and disappear after 5 seconds, or you can manually close them.
 
 ## Sample CSV Format
 
