@@ -11,6 +11,14 @@ This project is a **React-based Roster Management System** where team admins can
 - **Responsive Design**: Built using **Bootstrap** to ensure a smooth experience across devices.
 - **Form Validation**: **Formik** and **Yup** are used for form validation.
 
+## Live Demo
+
+Check out the live demo at: [Roster Management System](https://smith-0.github.io/CRUD-FORM-CSV/)
+
+## Deployment
+
+This repository uses GitHub Actions to automatically deploy to GitHub Pages. Any changes pushed to the `main` branch will trigger a workflow that builds the project and updates the `gh-pages` branch.
+
 ## Technologies Used
 
 - **React.js** (with Vite + TypeScript)
